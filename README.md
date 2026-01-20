@@ -1,0 +1,2 @@
+# public-servers
+ganar plata
